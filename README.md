@@ -1,6 +1,8 @@
 - 👋 Hi, my name is Kennise!
 - 👀 I’m interested in software engineering and robotics.
+- 👩🏻‍💻 Currently attempting to create an application aim at helping individuals in keeping a positive spirits and motivating them daily.
 - 🌱 I’m currently learning JavaScript, React, Node.js and Redux.
+- 🙋🏻‍♀️ When I'm not coding, I like to spend my time with people, listen to true crime podcasts, and watch horror movies even though they scare me.
 - 💞️ I’m looking to collaborate on open sources project or non-profit projects.
 - 📫 You can reach me by my linkedin https://www.linkedin.com/in/ngkennise/ or my email : ng.ken@northeastern.edu
 
