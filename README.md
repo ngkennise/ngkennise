@@ -1,4 +1,6 @@
 - 👋 Hi, my name is Kennise!
+- 📖 I am a graduate student at Northeastern University specializing in Computer Science.
+- 💼 I am currently a Student Ambassador for the Khoury College of Computer Science.
 - 👀 I’m interested in software engineering and robotics.
 - 👩🏻‍💻 Currently attempting to create an application aim at helping individuals in keeping a positive spirit and motivating one daily.
 - 🌱 I’m currently learning JavaScript, React, Node.js and Redux.
