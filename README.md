@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Kennise!
 - 📖 I am a graduate student at Northeastern University specializing in Computer Science.
-- 💼 I recently worked as a Software Engineer Co-op at Babel Street and did in Natural Language Processing work.
+- 💼 I recently worked as a Software Engineer Co-op at Babel Street and did Natural Language Processing work.
 - 👀 I’m interested in software engineering and robotics.
 - 👩🏻‍💻 Currently attempting to create an application aim at helping individuals in keeping a positive spirit and motivating one daily.
 - 🌱 I’m currently learning C++.
