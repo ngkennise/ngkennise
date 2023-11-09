@@ -5,7 +5,7 @@
 - 👀 I’m interested in software engineering and robotics.
 - 👩🏻‍💻 Currently attempting to create an application aim at helping individuals in keeping a positive spirit and motivating one daily.
 - 🌱 I’m currently learning C++.
-- 🙋🏻‍♀️ When I'm not coding, I like to spend quality time with people, listen to true crime podcasts, and watch horror movies even though they scare me.
+- 🙋🏻‍♀️ When I'm not coding, I like to spend quality time with people, volunteering at a soup kitche, listen to true crime podcasts, and watch horror movies even though they scare me.
 - 💞️ I’m looking to collaborate on open sources project or non-profit projects.
 - 📫 You can reach me by my linkedin https://www.linkedin.com/in/ngkennise/ or my email : ng.ken@northeastern.edu
 
